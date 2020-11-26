@@ -76,7 +76,7 @@ textarea {
 
 .checkbox:checked + .icon {
   background: $accent-color;
-  background-image: url(../images/svg/check-mark.svg);
+  background-image: url("../../images/svg/check-mark.svg");
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: 2px;

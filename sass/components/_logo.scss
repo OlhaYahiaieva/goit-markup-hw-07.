@@ -8,5 +8,8 @@
   font-style: normal;
 }
 .page-header span {
-  color: black;
+  color: $titel-text-color;
+}
+.page-footer span {
+  color: $primary-wight-color;
 }
